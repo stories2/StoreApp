@@ -1,0 +1,4 @@
+# StoreApp
+
+## Project goal
+- ?
